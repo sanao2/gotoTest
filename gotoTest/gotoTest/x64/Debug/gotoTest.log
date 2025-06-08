@@ -1,0 +1,5 @@
+﻿  gotoTest.cpp
+D:\게임 코딩 공부\이펙티브\GOTO\gotoTest\gotoTest.cpp(58,2): error C2535: 'MyClass::MyClass(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+      D:\게임 코딩 공부\이펙티브\GOTO\gotoTest\gotoTest.cpp(55,2):
+      'MyClass::MyClass' 선언을 참조하십시오.
+  
